@@ -9,6 +9,7 @@ div{
 }
 
 .segundo{
+    font-style: oblique;
     border:2px solid;
     background-color:rgb(241, 241, 228) ;
 }
@@ -17,6 +18,7 @@ div{
     background-color:rgb(236, 229, 229);
 }
 .cuarto{
+    font-style:oblique;
     border: 2px solid ;
     background: silver ;
 }
